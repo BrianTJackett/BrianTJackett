@@ -6,5 +6,5 @@
 - 😄 Pronouns: He/Him
 
 ### Connect ###
-![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&url=https://www.linkedin.com/in/BrianTJackett)
-![Twitter Follow](https://img.shields.io/twitter/follow/briantjackett?label=Follow&style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedIn)](https://www.linkedin.com/in/BrianTJackett)
+[![Twitter Follow](https://img.shields.io/twitter/follow/briantjackett?label=Follow&style=social)](https://www.twitter.com/BrianTJackett)
