@@ -6,6 +6,6 @@
 - 😄 Pronouns: He/Him
 
 ### Connect ###
-[Follow me on Bluesky](https://bsky.app/profile/briantjackett.com)
+[![Bluesky Follow](https://img.shields.io/badge/Bluesky-%40BrianTJackett.com-blue)](https://bsky.app/profile/briantjackett.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedIn)](https://www.linkedin.com/in/BrianTJackett)
 [![Twitter Follow](https://img.shields.io/twitter/follow/briantjackett?label=Follow&style=social)](https://www.twitter.com/BrianTJackett)
